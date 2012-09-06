@@ -1,6 +1,6 @@
 ## devot:ee Orders API Bundle, by Benjamin Kohl
 
-The devot:ee Orders API bundle allows ExpressionEngine add-on developers selling their add-ons on devot:ee to access their sales data.
+The devot:ee Orders API bundle allows ExpressionEngine add-on developers that sell their add-ons on devot:ee to access their sales data.
 
 ## Installation
 
